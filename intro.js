@@ -1,5 +1,5 @@
 // this is my first code
-monday = 1
+monday = 0
 tuesday = 2
 wednesday = 3
 thurdsday = 4
